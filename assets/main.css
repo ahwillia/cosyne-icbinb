@@ -22,6 +22,7 @@
     margin:0;
     padding:0;
     vertical-align:baseline;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -115,6 +116,9 @@ th,td{
     color: #505050;
     font-size:0.5em;
     font-weight: lighter;
+}
+#speakers{
+    scroll-behavior: smooth;
 }
 
 /* Navigation Links (Home, Registration, etc) */
