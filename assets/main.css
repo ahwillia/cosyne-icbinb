@@ -40,7 +40,13 @@ body{
 
 #tableschedule{
     font-size: 1.2em;
-    border-spacing: .4em;
+    border-spacing: .8em;
+}
+
+.mid{
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 50%
 }
 
 a{color: #b8860b; text-decoration:none;}
