@@ -38,6 +38,11 @@ body{
     width: 1000px;
 }
 
+#tableschedule{
+    font-size: 1.2em;
+    border-spacing: .4em;
+}
+
 a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
